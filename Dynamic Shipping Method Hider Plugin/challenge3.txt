@@ -1,0 +1,11 @@
+I am not quite sure I understand the objective of this challenge. I am unsure what this code is designed to output, or what it isn't outputting. Looking at some  
+
+//line 14 condition begins at 100 instead of 10 in the for() loop.
+
+i can see that the cool_var array is an empty array and is supposed to take in 10 randomized numbers from 0 to 1500 and store trhem in the new cool_var array.
+
+there are 2 new empty arrays that take in the result of modulus 2 and if equal to 1, the result is stored in the wackyArray array, if not, it the number is stored in the awesome_nums array.
+
+//line 32 outputs the first element in the wackyArray, which is the odd number
+
+The last output iterates through the awesome_nums array, displays a message if the number equals 2, 20, or 40...then sorts through the array, displaying the values in ascending order
