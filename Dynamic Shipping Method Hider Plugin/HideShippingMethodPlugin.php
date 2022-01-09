@@ -1,7 +1,7 @@
 <?php
 /*
    Plugin Name: Shomari's Awesome Dynamic Shipping-Option-Hider Plugin!
-   Plugin URI: http://linkedin.com/in/shomari-pope/
+   Plugin URI: https://github.com/shomaripope/php_po_box_filter
    description: Hides Your Choice of Shipping Option(s)...
                     **  $shipping_method_to_hide = 'flat_rate:1'  ** 
                 ...If "P.O Box" Is Entered In Shipping Street Address Input.
